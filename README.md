@@ -1,8 +1,10 @@
 # Periodic-MAE
-A repository for Periodic-MAE
-<img src="./Figure/Fig1" alt="framework" style="zoom: 30%;" />
 
 Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation
+
+<div align="center">
+  <img src="./Figure/Fig1.png" alt="framework" style="width:50%; height:auto;">
+</div>
 
 ## Setup
 Step1: `bash setup.sh` 
