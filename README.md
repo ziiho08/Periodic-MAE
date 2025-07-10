@@ -1,5 +1,6 @@
 # Periodic-MAE
 A repository for Periodic-MAE
+<img src="./Figure/Fig1" alt="framework" style="zoom: 30%;" />
 
 Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation
 
