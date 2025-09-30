@@ -33,14 +33,14 @@ For detailed usage related instructions, please refer the GitHub repo of the [rP
 }
 ```
 
-## Citation
-If you find our model helpful, please consider citing:
+%## Citation
+%If you find our model helpful, please consider citing:
 
-```
-@article{choi2025periodic,
-  title={Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation},
-  author={Choi, Jiho and Lee, Sang Jun},
-  journal={arXiv preprint arXiv:2506.21855},
-  year={2025}
-}
-```
+%```
+%@article{choi2025periodic,
+%  title={Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation},
+%  author={Choi, Jiho and Lee, Sang Jun},
+%  journal={arXiv preprint arXiv:2506.21855},
+%  year={2025}
+%}
+%```
